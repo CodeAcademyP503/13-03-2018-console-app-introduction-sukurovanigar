@@ -19,3 +19,13 @@ Ekrandan daxil olunan ifadede bu sozlerden her hansi biri kecirse ekranda "Siz l
 
 7. Bankomatdan pul cekmeye gedmisem. Ekrandan cekmek istediyim pul migdarini daxil edirem.Bankomat mene mumkun olan en boyuy eskinazlari vermelidir.
 meselen :754 azn pul cekmek isteyiremse 7 eded yuzluk 1 eded 50 lik ve 4 eded birlik eskinaz vermelidir.Bunu reallasdiracaq proqram yazin.
+
+
+# Qaynaqlar 
+
+- https://www.w3resource.com/csharp-exercises/basic/index.php bu 
+Yuxaridaki linkde tapsiriqlar ve onlarin helleri var ev tapsiriglari etmek ucun faydali olabiler size
+
+- http://www.learncs.org/
+
+bu linkden baslangic dersleri ucun lazim olan exerciselari etmek olar oyrenmek ucun
