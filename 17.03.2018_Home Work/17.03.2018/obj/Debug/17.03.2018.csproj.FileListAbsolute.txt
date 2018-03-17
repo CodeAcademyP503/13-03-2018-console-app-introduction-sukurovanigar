@@ -1,0 +1,7 @@
+C:\Users\Nigar\Desktop\Home Work Code Academy\17.03.2018\17.03.2018\17.03.2018\bin\Debug\17.03.2018.exe.config
+C:\Users\Nigar\Desktop\Home Work Code Academy\17.03.2018\17.03.2018\17.03.2018\bin\Debug\17.03.2018.exe
+C:\Users\Nigar\Desktop\Home Work Code Academy\17.03.2018\17.03.2018\17.03.2018\bin\Debug\17.03.2018.pdb
+C:\Users\Nigar\Desktop\Home Work Code Academy\17.03.2018\17.03.2018\17.03.2018\obj\Debug\17.03.2018.csprojResolveAssemblyReference.cache
+C:\Users\Nigar\Desktop\Home Work Code Academy\17.03.2018\17.03.2018\17.03.2018\obj\Debug\17.03.2018.csproj.CoreCompileInputs.cache
+C:\Users\Nigar\Desktop\Home Work Code Academy\17.03.2018\17.03.2018\17.03.2018\obj\Debug\17.03.2018.exe
+C:\Users\Nigar\Desktop\Home Work Code Academy\17.03.2018\17.03.2018\17.03.2018\obj\Debug\17.03.2018.pdb
